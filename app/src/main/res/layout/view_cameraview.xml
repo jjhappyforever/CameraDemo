@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.otaliastudios.cameraview.CameraView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/camera_view"
+    android:layout_width="1.0dip"
+    android:layout_height="1.0dip"
+    android:adjustViewBounds="true"
+    app:cameraAudio="off"
+    app:cameraEngine="camera2"
+    app:cameraFacing="front"
+    app:cameraFlash="off"
+    app:cameraMode="picture"
+    app:cameraPictureFormat="jpeg"
+    app:cameraPictureSizeMaxHeight="1920"
+    app:cameraPictureSizeMaxWidth="1080"
+    app:cameraPictureSizeMinHeight="1080"
+    app:cameraPictureSizeMinWidth="960"
+    app:cameraPlaySounds="false"
+    app:cameraRequestPermissions="false" />

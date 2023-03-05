@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#ff141523</color>
+    <color name="primary_dark_material_dark">@android:color/black</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+    <color name="accent_color">#ff3d56ff</color>
+    <color name="step_card_normal">#80707285</color>
+
+</resources>
